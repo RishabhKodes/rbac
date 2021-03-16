@@ -1,2 +1,2 @@
 # rbac
-Role Based Access Control implementation in NodeJs.
+Role Based Access Control in NodeJs
